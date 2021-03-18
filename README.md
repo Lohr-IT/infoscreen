@@ -1,6 +1,6 @@
 # Infoscreen
 
-A public display (aka "digital sinage") that displays slides or events.
+A system to install public signages using web technology and the microservice approach
 
 ![Example Installation](/.git-images/preview.bmp)
 
