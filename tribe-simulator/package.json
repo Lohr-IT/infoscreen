@@ -1,0 +1,34 @@
+{
+  "name": "tribe-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A fake API for testing the event-crawler.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "prod": "node index.js",
+    "dev": "nodemon index.js --exec \"npm run lint && node\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/AGVM/infoscreen.git"
+  },
+  "author": "Michael Lohr <michael@lohr-ffb.de>",
+  "bugs": {
+    "url": "https://gitlab.com/AGVM/infoscreen/issues"
+  },
+  "homepage": "https://gitlab.com/AGVM/infoscreen/-/blob/master/tribe-simulator/README.md",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-prettier": "^3.1.3",
+    "nodemon": "^2.0.3",
+    "prettier": "^2.0.4"
+  }
+}

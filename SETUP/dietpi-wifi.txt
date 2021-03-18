@@ -1,0 +1,7 @@
+# - Entry 0
+#	WiFi SSID (Case Sensitive)
+aWIFI_SSID[0]='INSERT SSID HERE'
+#	Key options: If no key (open), leave this blank
+aWIFI_KEY[0]='INSERT WIFI PASSWORD HERE'
+#	Available options: NONE (no key/open) | WPA-PSK | WEP | WPA-EAP (then use settings below)
+aWIFI_KEYMGR[0]='WPA-PSK'

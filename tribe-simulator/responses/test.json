@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": 3259,
+      "status": "publish",
+      "date": "2019-05-06 10:13:03",
+      "url": "https://www.agv-muenchen.de/veranstaltungen/stiftungsfestball-2020/",
+      "title": "Stiftungsfestball 2020",
+      "excerpt": "<p>Wir laden Euch am\u00a0Sonntag, den 12. Juli\u00a0zu unserem Stiftungsfestball auf die MS Starnberg auf den Starnberger See ein.</p>",
+      "slug": "stiftungsfestball-2020",
+      "image": {
+        "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-scaled.jpg"
+      },
+      "all_day": false,
+      "start_date": "2020-07-12 18:00:00",
+      "end_date": "2020-07-12 23:00:00",
+      "cost": "",
+      "venue": {
+        "venue": "MS Starnberg, Starnberger See"
+      },
+      "categories": [
+        {
+          "name": "Junges Orchester"
+        }
+      ]
+    },
+    {
+      "id": 32588,
+      "status": "publish",
+      "date": "2019-05-06 10:13:03",
+      "url": "https://www.agv-muenchen.de/veranstaltungen/stiftungsfestball-2020/",
+      "title": "Stiftungsfestball 2020",
+      "excerpt": "<p>Wir laden Euch am\u00a0Sonntag, den 12. Juli\u00a0zu unserem Stiftungsfestball auf die MS Starnberg auf den Starnberger See ein.</p>",
+      "slug": "stiftungsfestball-2020",
+      "image": {
+        "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-scaled.jpg"
+      },
+      "all_day": false,
+      "start_date": "2020-07-12 18:00:00",
+      "end_date": "2020-07-12 23:00:00",
+      "cost": "",
+      "venue": {
+        "venue": "MS Starnberg, Starnberger See"
+      },
+      "categories": [
+        {
+          "name": "Junges Orchester"
+        }
+      ]
+    },
+    {
+      "id": 32359,
+      "status": "publish",
+      "date": "2019-05-06 10:13:03",
+      "url": "https://www.agv-muenchen.de/veranstaltungen/stiftungsfestball-2020/",
+      "title": "Stiftungsfestball 2020",
+      "excerpt": "<p>Wir laden Euch am\u00a0Sonntag, den 12. Juli\u00a0zu unserem Stiftungsfestball auf die MS Starnberg auf den Starnberger See ein.</p>",
+      "slug": "stiftungsfestball-2020",
+      "image": {
+        "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-scaled.jpg"
+      },
+      "all_day": false,
+      "start_date": "2020-07-12 18:00:00",
+      "end_date": "2020-07-12 23:00:00",
+      "cost": "",
+      "venue": {
+        "venue": "MS Starnberg, Starnberger See"
+      },
+      "categories": [
+        {
+          "name": "Junges Orchester"
+        }
+      ]
+    }
+  ]
+}

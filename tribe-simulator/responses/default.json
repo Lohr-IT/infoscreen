@@ -1,0 +1,1288 @@
+{
+  "events": [
+    {
+      "id": 4357,
+      "global_id": "www.agv-muenchen.de?id=4357",
+      "global_id_lineage": ["www.agv-muenchen.de?id=4357"],
+      "author": "9",
+      "status": "publish",
+      "date": "2020-02-11 13:50:14",
+      "date_utc": "2020-02-11 12:50:14",
+      "modified": "2020-02-11 13:51:43",
+      "modified_utc": "2020-02-11 12:51:43",
+      "url": "https://www.agv-muenchen.de/veranstaltungen/rautavaara-beethoven-brahms/",
+      "rest_url": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/events/4357",
+      "title": "Rautavaara \u2013 Beethoven \u2013 Brahms",
+      "description": "<p>Programm:</p>\n<ul>\n<li><strong>E. Rautavaara</strong>\u00a0| In the Beginning</li>\n<li><strong>L. v. Beethoven</strong>\u00a0| Violinkonzert</li>\n<li><strong>J. Brahms</strong>\u00a0| Sinfonie Nr. 4</li>\n</ul>\n<p>Leitung: Christoph Sch\u00e4fer</p>\n<p>Mehr Informationen folgen in K\u00fcrze.</p>",
+      "excerpt": "",
+      "slug": "rautavaara-beethoven-brahms",
+      "image": {
+        "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-scaled.jpg",
+        "id": 4326,
+        "extension": "jpg",
+        "width": 1600,
+        "height": 1201,
+        "sizes": {
+          "medium": {
+            "width": 300,
+            "height": 225,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-300x225.jpg"
+          },
+          "large": {
+            "width": 1024,
+            "height": 769,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-1024x769.jpg"
+          },
+          "thumbnail": {
+            "width": 150,
+            "height": 150,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-150x150.jpg"
+          },
+          "medium_large": {
+            "width": 768,
+            "height": 577,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-768x577.jpg"
+          },
+          "1536x1536": {
+            "width": 1536,
+            "height": 1153,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-1536x1153.jpg"
+          },
+          "2048x2048": {
+            "width": 2048,
+            "height": 1538,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-2048x1538.jpg"
+          },
+          "portfolio-full": {
+            "width": 940,
+            "height": 400,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-940x400.jpg"
+          },
+          "portfolio-one": {
+            "width": 540,
+            "height": 272,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-540x272.jpg"
+          },
+          "portfolio-two": {
+            "width": 460,
+            "height": 295,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-460x295.jpg"
+          },
+          "portfolio-three": {
+            "width": 300,
+            "height": 214,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-300x214.jpg"
+          },
+          "portfolio-five": {
+            "width": 177,
+            "height": 142,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-177x142.jpg"
+          },
+          "blog-large": {
+            "width": 669,
+            "height": 272,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-669x272.jpg"
+          },
+          "blog-medium": {
+            "width": 320,
+            "height": 202,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-320x202.jpg"
+          },
+          "recent-posts": {
+            "width": 700,
+            "height": 441,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-700x441.jpg"
+          },
+          "recent-works-thumbnail": {
+            "width": 66,
+            "height": 66,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-66x66.jpg"
+          },
+          "0": {
+            "width": 200,
+            "height": 150,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-scaled.jpg"
+          },
+          "1": {
+            "width": 400,
+            "height": 300,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-400x300.jpg"
+          },
+          "2": {
+            "width": 600,
+            "height": 451,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-600x451.jpg"
+          },
+          "3": {
+            "width": 800,
+            "height": 601,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-800x601.jpg"
+          },
+          "4": {
+            "width": 1200,
+            "height": 901,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-1200x901.jpg"
+          }
+        },
+        "original_image": "0.jpg",
+        "old_width": 2560,
+        "old_height": 1922
+      },
+      "all_day": false,
+      "start_date": "2020-07-03 20:00:00",
+      "start_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "03",
+        "hour": "20",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "end_date": "2020-07-03 22:00:00",
+      "end_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "03",
+        "hour": "22",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "utc_start_date": "2020-07-03 18:00:00",
+      "utc_start_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "03",
+        "hour": "18",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "utc_end_date": "2020-07-03 20:00:00",
+      "utc_end_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "03",
+        "hour": "20",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "timezone": "Europe/Berlin",
+      "timezone_abbr": "CEST",
+      "cost": "kostenlos",
+      "cost_details": {
+        "currency_symbol": "",
+        "currency_position": "suffix",
+        "values": ["0"]
+      },
+      "website": "https://www.agv-muenchen.de/junges-orchester/",
+      "show_map": true,
+      "show_map_link": true,
+      "hide_from_listings": false,
+      "sticky": false,
+      "featured": false,
+      "categories": [
+        {
+          "name": "Junges Orchester",
+          "slug": "junges-orchester",
+          "term_group": 0,
+          "term_taxonomy_id": 12,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 22,
+          "filter": "raw",
+          "id": 12,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/12",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "name": "Auff\u00fchrung",
+          "slug": "auffuehrung",
+          "term_group": 0,
+          "term_taxonomy_id": 100,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 5,
+          "filter": "raw",
+          "id": 100,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/100",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Beethoven",
+          "slug": "beethoven",
+          "term_group": 0,
+          "term_taxonomy_id": 105,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 4,
+          "filter": "raw",
+          "id": 105,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/105",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Brahms",
+          "slug": "brahms",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 4,
+          "filter": "raw",
+          "id": 87,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/87",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Klassik",
+          "slug": "klassik",
+          "term_group": 0,
+          "term_taxonomy_id": 53,
+          "taxonomy": "post_tag",
+          "description": "Klassik (1750 - 1830). Das Cembalo verschwindet, das Klavier und die Klarinette wurden entwickelt. Standardorchester umfasst nebst einem gr\u00f6sseren Streicherk\u00f6rper Fl\u00f6ten, Oboen, Klarinetten, Fagotte, H\u00f6rner, Trompeten, Pauken und Posaunen.\r\n\r\nVertreter:\r\nJoseph Hadyn, Wofgang Mozart, Ludwig v. Beethoven",
+          "parent": 0,
+          "count": 16,
+          "filter": "raw",
+          "id": 53,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/53",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Konzert",
+          "slug": "konzert",
+          "term_group": 0,
+          "term_taxonomy_id": 47,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 43,
+          "filter": "raw",
+          "id": 47,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/47",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Neue Musik",
+          "slug": "neue-musik",
+          "term_group": 0,
+          "term_taxonomy_id": 54,
+          "taxonomy": "post_tag",
+          "description": "Ab dem 20. Jahrhundert wird die Einordnung der neuen Musik je nach Stilrichtungen immer feingliedriger, eine Vielzahl von Kompositionsstilen existieren gleichzeitig. \r\nImpressionismus, Expressionismus, Zw\u00f6lftonmusik, Neoklassizismus, Elektronische Musik, Jazz \u2013 Stile, Rockmusikstile, Schlager/Popmusik\r\n\r\nVertreter: Debussy, Strawinsky, Stockhausen, Boulez, Armstrong, Elvis Presley, Beatles",
+          "parent": 0,
+          "count": 24,
+          "filter": "raw",
+          "id": 54,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/54",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Orchester",
+          "slug": "orchester",
+          "term_group": 0,
+          "term_taxonomy_id": 42,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 29,
+          "filter": "raw",
+          "id": 42,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/42",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Streicher",
+          "slug": "streicher",
+          "term_group": 0,
+          "term_taxonomy_id": 131,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 4,
+          "filter": "raw",
+          "id": 131,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/131",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        }
+      ],
+      "venue": {
+        "id": 12,
+        "author": "2",
+        "status": "publish",
+        "date": "2017-06-19 11:42:11",
+        "date_utc": "2017-06-19 09:42:11",
+        "modified": "2018-02-26 15:09:37",
+        "modified_utc": "2018-02-26 14:09:37",
+        "url": "https://www.agv-muenchen.de/veranstaltungsort/scholastika-grosser-saal/",
+        "venue": "Scholastika, Gro\u00dfer Saal (3. Stock)",
+        "slug": "scholastika-grosser-saal",
+        "address": "Ledererstra\u00dfe 5",
+        "city": "M\u00fcnchen",
+        "country": "Deutschland",
+        "province": "Bayern",
+        "zip": "80331",
+        "phone": "089 223707",
+        "website": "http://agv-muenchen.de/",
+        "stateprovince": "Bayern",
+        "show_map": true,
+        "show_map_link": true,
+        "global_id": "www.agv-muenchen.de?id=12",
+        "global_id_lineage": ["www.agv-muenchen.de?id=12"]
+      },
+      "organizer": [
+        {
+          "id": 2184,
+          "author": "6",
+          "status": "publish",
+          "date": "2018-02-18 14:12:05",
+          "date_utc": "2018-02-18 13:12:05",
+          "modified": "2018-02-18 14:12:05",
+          "modified_utc": "2018-02-18 13:12:05",
+          "url": "https://www.agv-muenchen.de/veranstalter/junges-orchester/",
+          "organizer": "Junges Orchester",
+          "slug": "junges-orchester",
+          "phone": "089 223707",
+          "website": "https://www.agv-muenchen.de/junges-orchester",
+          "email": "junges-orchester@agv-muenchen.de",
+          "global_id": "www.agv-muenchen.de?id=2184",
+          "global_id_lineage": ["www.agv-muenchen.de?id=2184"]
+        }
+      ]
+    },
+    {
+      "id": 4358,
+      "global_id": "www.agv-muenchen.de?id=4358",
+      "global_id_lineage": ["www.agv-muenchen.de?id=4358"],
+      "author": "9",
+      "status": "publish",
+      "date": "2020-02-11 13:54:48",
+      "date_utc": "2020-02-11 12:54:48",
+      "modified": "2020-02-11 13:54:48",
+      "modified_utc": "2020-02-11 12:54:48",
+      "url": "https://www.agv-muenchen.de/veranstaltungen/rautavaara-beethoven-brahms-2/",
+      "rest_url": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/events/4358",
+      "title": "Rautavaara \u2013 Beethoven \u2013 Brahms",
+      "description": "<p>Programm:</p>\n<ul>\n<li><strong>E. Rautavaara</strong>\u00a0| In the Beginning</li>\n<li><strong>L. v. Beethoven</strong>\u00a0| Violinkonzert</li>\n<li><strong>J. Brahms</strong>\u00a0| Sinfonie Nr. 4</li>\n</ul>\n<p>Leitung: Christoph Sch\u00e4fer</p>\n<p>Mehr Informationen folgen in K\u00fcrze.</p>",
+      "excerpt": "",
+      "slug": "rautavaara-beethoven-brahms-2",
+      "image": {
+        "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-scaled.jpg",
+        "id": 4326,
+        "extension": "jpg",
+        "width": 1600,
+        "height": 1201,
+        "sizes": {
+          "medium": {
+            "width": 300,
+            "height": 225,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-300x225.jpg"
+          },
+          "large": {
+            "width": 1024,
+            "height": 769,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-1024x769.jpg"
+          },
+          "thumbnail": {
+            "width": 150,
+            "height": 150,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-150x150.jpg"
+          },
+          "medium_large": {
+            "width": 768,
+            "height": 577,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-768x577.jpg"
+          },
+          "1536x1536": {
+            "width": 1536,
+            "height": 1153,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-1536x1153.jpg"
+          },
+          "2048x2048": {
+            "width": 2048,
+            "height": 1538,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-2048x1538.jpg"
+          },
+          "portfolio-full": {
+            "width": 940,
+            "height": 400,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-940x400.jpg"
+          },
+          "portfolio-one": {
+            "width": 540,
+            "height": 272,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-540x272.jpg"
+          },
+          "portfolio-two": {
+            "width": 460,
+            "height": 295,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-460x295.jpg"
+          },
+          "portfolio-three": {
+            "width": 300,
+            "height": 214,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-300x214.jpg"
+          },
+          "portfolio-five": {
+            "width": 177,
+            "height": 142,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-177x142.jpg"
+          },
+          "blog-large": {
+            "width": 669,
+            "height": 272,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-669x272.jpg"
+          },
+          "blog-medium": {
+            "width": 320,
+            "height": 202,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-320x202.jpg"
+          },
+          "recent-posts": {
+            "width": 700,
+            "height": 441,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-700x441.jpg"
+          },
+          "recent-works-thumbnail": {
+            "width": 66,
+            "height": 66,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-66x66.jpg"
+          },
+          "0": {
+            "width": 200,
+            "height": 150,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-scaled.jpg"
+          },
+          "1": {
+            "width": 400,
+            "height": 300,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-400x300.jpg"
+          },
+          "2": {
+            "width": 600,
+            "height": 451,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-600x451.jpg"
+          },
+          "3": {
+            "width": 800,
+            "height": 601,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-800x601.jpg"
+          },
+          "4": {
+            "width": 1200,
+            "height": 901,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2020/02/0-1200x901.jpg"
+          }
+        },
+        "original_image": "0.jpg",
+        "old_width": 2560,
+        "old_height": 1922
+      },
+      "all_day": false,
+      "start_date": "2020-07-04 20:00:00",
+      "start_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "04",
+        "hour": "20",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "end_date": "2020-07-04 22:00:00",
+      "end_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "04",
+        "hour": "22",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "utc_start_date": "2020-07-04 18:00:00",
+      "utc_start_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "04",
+        "hour": "18",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "utc_end_date": "2020-07-04 20:00:00",
+      "utc_end_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "04",
+        "hour": "20",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "timezone": "Europe/Berlin",
+      "timezone_abbr": "CEST",
+      "cost": "kostenlos",
+      "cost_details": {
+        "currency_symbol": "",
+        "currency_position": "suffix",
+        "values": ["0"]
+      },
+      "website": "https://www.agv-muenchen.de/junges-orchester/",
+      "show_map": true,
+      "show_map_link": true,
+      "hide_from_listings": false,
+      "sticky": false,
+      "featured": false,
+      "categories": [
+        {
+          "name": "Junges Orchester",
+          "slug": "junges-orchester",
+          "term_group": 0,
+          "term_taxonomy_id": 12,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 22,
+          "filter": "raw",
+          "id": 12,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/12",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "name": "Auff\u00fchrung",
+          "slug": "auffuehrung",
+          "term_group": 0,
+          "term_taxonomy_id": 100,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 5,
+          "filter": "raw",
+          "id": 100,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/100",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Beethoven",
+          "slug": "beethoven",
+          "term_group": 0,
+          "term_taxonomy_id": 105,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 4,
+          "filter": "raw",
+          "id": 105,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/105",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Brahms",
+          "slug": "brahms",
+          "term_group": 0,
+          "term_taxonomy_id": 87,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 4,
+          "filter": "raw",
+          "id": 87,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/87",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Klassik",
+          "slug": "klassik",
+          "term_group": 0,
+          "term_taxonomy_id": 53,
+          "taxonomy": "post_tag",
+          "description": "Klassik (1750 - 1830). Das Cembalo verschwindet, das Klavier und die Klarinette wurden entwickelt. Standardorchester umfasst nebst einem gr\u00f6sseren Streicherk\u00f6rper Fl\u00f6ten, Oboen, Klarinetten, Fagotte, H\u00f6rner, Trompeten, Pauken und Posaunen.\r\n\r\nVertreter:\r\nJoseph Hadyn, Wofgang Mozart, Ludwig v. Beethoven",
+          "parent": 0,
+          "count": 16,
+          "filter": "raw",
+          "id": 53,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/53",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Neue Musik",
+          "slug": "neue-musik",
+          "term_group": 0,
+          "term_taxonomy_id": 54,
+          "taxonomy": "post_tag",
+          "description": "Ab dem 20. Jahrhundert wird die Einordnung der neuen Musik je nach Stilrichtungen immer feingliedriger, eine Vielzahl von Kompositionsstilen existieren gleichzeitig. \r\nImpressionismus, Expressionismus, Zw\u00f6lftonmusik, Neoklassizismus, Elektronische Musik, Jazz \u2013 Stile, Rockmusikstile, Schlager/Popmusik\r\n\r\nVertreter: Debussy, Strawinsky, Stockhausen, Boulez, Armstrong, Elvis Presley, Beatles",
+          "parent": 0,
+          "count": 24,
+          "filter": "raw",
+          "id": 54,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/54",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Orchester",
+          "slug": "orchester",
+          "term_group": 0,
+          "term_taxonomy_id": 42,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 29,
+          "filter": "raw",
+          "id": 42,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/42",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Streicher",
+          "slug": "streicher",
+          "term_group": 0,
+          "term_taxonomy_id": 131,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 4,
+          "filter": "raw",
+          "id": 131,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/131",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        },
+        {
+          "name": "Unterhaltung",
+          "slug": "unterhaltung",
+          "term_group": 0,
+          "term_taxonomy_id": 103,
+          "taxonomy": "post_tag",
+          "description": "",
+          "parent": 0,
+          "count": 4,
+          "filter": "raw",
+          "id": 103,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags/103",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/tags"
+          }
+        }
+      ],
+      "venue": {
+        "id": 12,
+        "author": "2",
+        "status": "publish",
+        "date": "2017-06-19 11:42:11",
+        "date_utc": "2017-06-19 09:42:11",
+        "modified": "2018-02-26 15:09:37",
+        "modified_utc": "2018-02-26 14:09:37",
+        "url": "https://www.agv-muenchen.de/veranstaltungsort/scholastika-grosser-saal/",
+        "venue": "Scholastika, Gro\u00dfer Saal (3. Stock)",
+        "slug": "scholastika-grosser-saal",
+        "address": "Ledererstra\u00dfe 5",
+        "city": "M\u00fcnchen",
+        "country": "Deutschland",
+        "province": "Bayern",
+        "zip": "80331",
+        "phone": "089 223707",
+        "website": "http://agv-muenchen.de/",
+        "stateprovince": "Bayern",
+        "show_map": true,
+        "show_map_link": true,
+        "global_id": "www.agv-muenchen.de?id=12",
+        "global_id_lineage": ["www.agv-muenchen.de?id=12"]
+      },
+      "organizer": [
+        {
+          "id": 2184,
+          "author": "6",
+          "status": "publish",
+          "date": "2018-02-18 14:12:05",
+          "date_utc": "2018-02-18 13:12:05",
+          "modified": "2018-02-18 14:12:05",
+          "modified_utc": "2018-02-18 13:12:05",
+          "url": "https://www.agv-muenchen.de/veranstalter/junges-orchester/",
+          "organizer": "Junges Orchester",
+          "slug": "junges-orchester",
+          "phone": "089 223707",
+          "website": "https://www.agv-muenchen.de/junges-orchester",
+          "email": "junges-orchester@agv-muenchen.de",
+          "global_id": "www.agv-muenchen.de?id=2184",
+          "global_id_lineage": ["www.agv-muenchen.de?id=2184"]
+        }
+      ]
+    },
+    {
+      "id": 3252,
+      "global_id": "www.agv-muenchen.de?id=3252",
+      "global_id_lineage": ["www.agv-muenchen.de?id=3252"],
+      "author": "19",
+      "status": "publish",
+      "date": "2019-05-06 10:13:03",
+      "date_utc": "2019-05-06 08:13:03",
+      "modified": "2020-02-14 14:32:16",
+      "modified_utc": "2020-02-14 13:32:16",
+      "url": "https://www.agv-muenchen.de/veranstaltungen/stiftungsfestball-2020/",
+      "rest_url": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/events/3252",
+      "title": "Stiftungsfestball 2020",
+      "description": "<p style=\"font-weight: 400;\">Wir laden Euch am\u00a0<strong>Sonntag, den 12. Juli 2020 </strong>zu unserem Stiftungsfestball auf die MS Starnberg auf den Starnberger See ein.</p>\n<p style=\"font-weight: 400;\">Einlass auf das Schiff ist ab 17.30 Uhr am Dampfersteg in Starnberg. Abgelegt wird p\u00fcnktlich um 18.00 Uhr! F\u00fcr die musikalische Gestaltung haben wir unsere bew\u00e4hrte Band Munich Swing Set verpflichten k\u00f6nnen, die daf\u00fcr sorgen wird, dass alle tanzbegeisterten ihr Tanzbein schwingen k\u00f6nnen. Wem es auf dem Parkett zu hei\u00df wird, kann sich auf dem Oberdeck den Fahrtwind um die Ohren wehen lassen und die vorbeiziehende Landschaft im Abendlicht genie\u00dfen. Damit steht einem vergn\u00fcglichen Ballabend und einem stilvollen Ausklang des Stiftungsfests nichts mehr entgegen. Karten f\u00fcr die MS Starnberg k\u00f6nnt Ihr \u00fcber die Gesch\u00e4ftsstelle (w\u00e4hrend der Gesch\u00e4ftszeiten, Mo.- Fr. Vormittag), oder \u00fcber <a href=\"https://sv.laterne.de/edetail?mpn=Events&amp;gruppe=M&amp;eid=14200100021\"  target=\"_blank\"  title=\"diesen Link\"  class=\"wp-links-icon\">diesen Link</a>\u00a0bestellen. Die Preiskategorien liegen bei 40,- \u20ac (erm\u00e4\u00dfigt 25,- \u20ac) f\u00fcr Tischkarten und 25,- \u20ac f\u00fcr Schiffskarten. F\u00fcr Kurzentschlossene besteht auch wieder die M\u00f6glichkeit, Schiffskarten an der Abendkasse zu erstehen.</p>\n<p>&nbsp;</p>\n<div class=\"fusion-image-carousel fusion-image-carousel-auto fusion-carousel-border\"><div class=\"fusion-carousel\" data-autoplay=\"yes\" data-columns=\"1\" data-itemmargin=\"13\" data-itemwidth=\"180\" data-touchscroll=\"no\" data-imagesize=\"auto\"><div class=\"fusion-carousel-positioner\"><ul class=\"fusion-carousel-holder\"><li class=\"fusion-carousel-item\"><div class=\"fusion-carousel-item-wrapper\"><div class=\"fusion-image-wrapper hover-type-none\"><img width=\"1500\" height=\"1000\" src=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116.jpg\" class=\"attachment-full size-full\" alt=\"Stiftungsfestball 2020\" srcset=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-200x133.jpg 200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-300x200.jpg 300w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-400x267.jpg 400w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-600x400.jpg 600w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-768x512.jpg 768w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-800x533.jpg 800w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-1024x683.jpg 1024w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116-1200x800.jpg 1200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/Feier_Diego_Reindel_116.jpg 1500w\" sizes=\"(max-width: 1500px) 100vw, 1500px\" title=\"Stiftungsfestball 2020\" /></div></div></li><li class=\"fusion-carousel-item\"><div class=\"fusion-carousel-item-wrapper\"><div class=\"fusion-image-wrapper hover-type-none\"><img width=\"1600\" height=\"1067\" src=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564.jpg\" class=\"attachment-full size-full\" alt=\"Stiftungsfestball 2020\" srcset=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-200x133.jpg 200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-300x200.jpg 300w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-400x267.jpg 400w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-600x400.jpg 600w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-768x512.jpg 768w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-800x533.jpg 800w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-1024x683.jpg 1024w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-1200x800.jpg 1200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564.jpg 1600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" title=\"Stiftungsfestball 2020\" /></div></div></li><li class=\"fusion-carousel-item\"><div class=\"fusion-carousel-item-wrapper\"><div class=\"fusion-image-wrapper hover-type-none\"><img width=\"1067\" height=\"1600\" src=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489.jpg\" class=\"attachment-full size-full\" alt=\"Stiftungsfestball 2020\" srcset=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489-200x300.jpg 200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489-400x600.jpg 400w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489-600x900.jpg 600w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489-683x1024.jpg 683w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489-768x1152.jpg 768w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489-800x1200.jpg 800w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489.jpg 1067w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-489-1200x1800.jpg 1200w\" sizes=\"(max-width: 1067px) 100vw, 1067px\" title=\"Stiftungsfestball 2020\" /></div></div></li><li class=\"fusion-carousel-item\"><div class=\"fusion-carousel-item-wrapper\"><div class=\"fusion-image-wrapper hover-type-none\"><img width=\"1067\" height=\"1600\" src=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229.jpg\" class=\"attachment-full size-full\" alt=\"Stiftungsfestball 2020\" srcset=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229-200x300.jpg 200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229-400x600.jpg 400w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229-600x900.jpg 600w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229-683x1024.jpg 683w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229-768x1152.jpg 768w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229-800x1200.jpg 800w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229.jpg 1067w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-229-1200x1800.jpg 1200w\" sizes=\"(max-width: 1067px) 100vw, 1067px\" title=\"Stiftungsfestball 2020\" /></div></div></li><li class=\"fusion-carousel-item\"><div class=\"fusion-carousel-item-wrapper\"><div class=\"fusion-image-wrapper hover-type-none\"><img width=\"1600\" height=\"1067\" src=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016.jpg\" class=\"attachment-full size-full\" alt=\"Stiftungsfestball 2020\" srcset=\"https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-200x133.jpg 200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-300x200.jpg 300w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-400x267.jpg 400w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-600x400.jpg 600w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-768x512.jpg 768w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-800x533.jpg 800w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-1024x683.jpg 1024w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016-1200x800.jpg 1200w, https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-016.jpg 1600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" title=\"Stiftungsfestball 2020\" /></div></div></li></ul><div class=\"fusion-carousel-nav\"><span class=\"fusion-nav-prev\"></span><span class=\"fusion-nav-next\"></span></div></div></div></div>",
+      "excerpt": "<p>Wir laden Euch am\u00a0Sonntag, den 12. Juli\u00a0zu unserem Stiftungsfestball auf die MS Starnberg auf den Starnberger See ein.</p>",
+      "slug": "stiftungsfestball-2020",
+      "image": {
+        "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564.jpg",
+        "id": 3256,
+        "extension": "jpg",
+        "width": 1600,
+        "height": 1067,
+        "sizes": {
+          "thumbnail": {
+            "width": 150,
+            "height": 150,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-150x150.jpg"
+          },
+          "medium": {
+            "width": 300,
+            "height": 200,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-300x200.jpg"
+          },
+          "medium_large": {
+            "width": 768,
+            "height": 512,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-768x512.jpg"
+          },
+          "large": {
+            "width": 1024,
+            "height": 683,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-1024x683.jpg"
+          },
+          "portfolio-full": {
+            "width": 940,
+            "height": 400,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-940x400.jpg"
+          },
+          "portfolio-one": {
+            "width": 540,
+            "height": 272,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-540x272.jpg"
+          },
+          "portfolio-two": {
+            "width": 460,
+            "height": 295,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-460x295.jpg"
+          },
+          "portfolio-three": {
+            "width": 300,
+            "height": 214,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-300x214.jpg"
+          },
+          "portfolio-five": {
+            "width": 177,
+            "height": 142,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-177x142.jpg"
+          },
+          "blog-large": {
+            "width": 669,
+            "height": 272,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-669x272.jpg"
+          },
+          "blog-medium": {
+            "width": 320,
+            "height": 202,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-320x202.jpg"
+          },
+          "recent-posts": {
+            "width": 700,
+            "height": 441,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-700x441.jpg"
+          },
+          "recent-works-thumbnail": {
+            "width": 66,
+            "height": 66,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-66x66.jpg"
+          },
+          "fusion-200": {
+            "width": 200,
+            "height": 133,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-200x133.jpg"
+          },
+          "fusion-400": {
+            "width": 400,
+            "height": 267,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-400x267.jpg"
+          },
+          "fusion-600": {
+            "width": 600,
+            "height": 400,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-600x400.jpg"
+          },
+          "fusion-800": {
+            "width": 800,
+            "height": 533,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-800x533.jpg"
+          },
+          "fusion-1200": {
+            "width": 1200,
+            "height": 800,
+            "mime-type": "image/jpeg",
+            "url": "https://www.agv-muenchen.de/wp-content/uploads/2019/02/2014-07-13-Sommerball-2014-AGV-564-1200x800.jpg"
+          }
+        },
+        "old_width": 5086,
+        "old_height": 3391
+      },
+      "all_day": false,
+      "start_date": "2020-07-12 18:00:00",
+      "start_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "12",
+        "hour": "18",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "end_date": "2020-07-12 23:00:00",
+      "end_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "12",
+        "hour": "23",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "utc_start_date": "2020-07-12 16:00:00",
+      "utc_start_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "12",
+        "hour": "16",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "utc_end_date": "2020-07-12 21:00:00",
+      "utc_end_date_details": {
+        "year": "2020",
+        "month": "07",
+        "day": "12",
+        "hour": "21",
+        "minutes": "00",
+        "seconds": "00"
+      },
+      "timezone": "Europe/Berlin",
+      "timezone_abbr": "CEST",
+      "cost": "",
+      "cost_details": {
+        "currency_symbol": "",
+        "currency_position": "prefix",
+        "values": []
+      },
+      "website": "",
+      "show_map": true,
+      "show_map_link": true,
+      "hide_from_listings": false,
+      "sticky": false,
+      "featured": false,
+      "categories": [
+        {
+          "name": "Aktivitas",
+          "slug": "aktivitas",
+          "term_group": 0,
+          "term_taxonomy_id": 26,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 0,
+          "count": 23,
+          "filter": "raw",
+          "id": 26,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/26",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories"
+          }
+        },
+        {
+          "name": "Big Band",
+          "slug": "big-band",
+          "term_group": 0,
+          "term_taxonomy_id": 16,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 16,
+          "filter": "raw",
+          "id": 16,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/16",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Freundeskreis",
+          "slug": "freundeskreis",
+          "term_group": 0,
+          "term_taxonomy_id": 40,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 0,
+          "count": 7,
+          "filter": "raw",
+          "id": 40,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/40",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories"
+          }
+        },
+        {
+          "name": "Gro\u00dfer Chor",
+          "slug": "grosser-chor",
+          "term_group": 0,
+          "term_taxonomy_id": 11,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 15,
+          "filter": "raw",
+          "id": 11,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/11",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Gro\u00dfes Orchester",
+          "slug": "grosses-orchester",
+          "term_group": 0,
+          "term_taxonomy_id": 13,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 9,
+          "filter": "raw",
+          "id": 13,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/13",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Gro\u00dfes Theater",
+          "slug": "grosses-theater",
+          "term_group": 0,
+          "term_taxonomy_id": 7,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 27,
+          "filter": "raw",
+          "id": 7,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/7",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Improtheater",
+          "slug": "improtheater",
+          "term_group": 0,
+          "term_taxonomy_id": 9,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 33,
+          "filter": "raw",
+          "id": 9,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/9",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Improvisationstheater",
+          "slug": "improvisationstheater",
+          "term_group": 0,
+          "term_taxonomy_id": 75,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 0,
+          "count": 19,
+          "filter": "raw",
+          "id": 75,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/75",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories"
+          }
+        },
+        {
+          "name": "Junger Chor",
+          "slug": "junger-chor",
+          "term_group": 0,
+          "term_taxonomy_id": 10,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 12,
+          "filter": "raw",
+          "id": 10,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/10",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Junges Orchester",
+          "slug": "junges-orchester",
+          "term_group": 0,
+          "term_taxonomy_id": 12,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 22,
+          "filter": "raw",
+          "id": 12,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/12",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Junges Theater",
+          "slug": "junges-theater",
+          "term_group": 0,
+          "term_taxonomy_id": 8,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 2,
+          "filter": "raw",
+          "id": 8,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/8",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Musengruppen",
+          "slug": "musengruppen",
+          "term_group": 0,
+          "term_taxonomy_id": 6,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 0,
+          "count": 5,
+          "filter": "raw",
+          "id": 6,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories"
+          }
+        },
+        {
+          "name": "Philisterium",
+          "slug": "philisterium",
+          "term_group": 0,
+          "term_taxonomy_id": 27,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 0,
+          "count": 11,
+          "filter": "raw",
+          "id": 27,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/27",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories"
+          }
+        },
+        {
+          "name": "Sinfonisches Blasorchester",
+          "slug": "sinfonisches-blasorchester",
+          "term_group": 0,
+          "term_taxonomy_id": 14,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 11,
+          "filter": "raw",
+          "id": 14,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/14",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        },
+        {
+          "name": "Tanzkurs",
+          "slug": "tanzkurs",
+          "term_group": 0,
+          "term_taxonomy_id": 73,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 0,
+          "count": 6,
+          "filter": "raw",
+          "id": 73,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/73",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories"
+          }
+        },
+        {
+          "name": "Volkstheater",
+          "slug": "volkstheater",
+          "term_group": 0,
+          "term_taxonomy_id": 120,
+          "taxonomy": "tribe_events_cat",
+          "description": "",
+          "parent": 6,
+          "count": 4,
+          "filter": "raw",
+          "id": 120,
+          "urls": {
+            "self": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/120",
+            "collection": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories",
+            "up": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/categories/6"
+          }
+        }
+      ],
+      "tags": [],
+      "venue": {
+        "id": 3307,
+        "author": "19",
+        "status": "publish",
+        "date": "2019-05-06 10:13:03",
+        "date_utc": "2019-05-06 08:13:03",
+        "modified": "2019-05-06 10:13:03",
+        "modified_utc": "2019-05-06 08:13:03",
+        "url": "https://www.agv-muenchen.de/veranstaltungsort/ms-starnberg-starnberger-see-2/",
+        "venue": "MS Starnberg, Starnberger See",
+        "slug": "ms-starnberg-starnberger-see-2",
+        "address": "Bahnhofsplatz",
+        "city": "Starnberg",
+        "country": "Deutschland",
+        "province": "Bayern",
+        "zip": "82335",
+        "stateprovince": "Bayern",
+        "show_map": true,
+        "show_map_link": true,
+        "global_id": "www.agv-muenchen.de?id=3307",
+        "global_id_lineage": ["www.agv-muenchen.de?id=3307"]
+      },
+      "organizer": [
+        {
+          "id": 1144,
+          "author": "6",
+          "status": "publish",
+          "date": "2017-09-28 11:11:14",
+          "date_utc": "2017-09-28 09:11:14",
+          "modified": "2017-09-28 11:11:14",
+          "modified_utc": "2017-09-28 09:11:14",
+          "url": "https://www.agv-muenchen.de/veranstalter/philisterverband/",
+          "organizer": "Philisterverband",
+          "slug": "philisterverband",
+          "phone": "(089) 22 37 07",
+          "website": "agv-muenchen.de",
+          "email": "geschaeftsstelle@agv-muenchen.de",
+          "global_id": "www.agv-muenchen.de?id=1144",
+          "global_id_lineage": ["www.agv-muenchen.de?id=1144"]
+        }
+      ]
+    }
+  ],
+  "rest_url": "https://www.agv-muenchen.de/wp-json/tribe/events/v1/events/?page=1&per_page=10&start_date=2020-04-12 00:00:00&end_date=2022-04-12 23:59:59&status=publish",
+  "total": 3,
+  "total_pages": 1
+}

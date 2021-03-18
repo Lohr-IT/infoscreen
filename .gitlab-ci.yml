@@ -1,0 +1,168 @@
+image: docker:stable
+
+stages:
+  - test
+  - build
+  - deploy
+
+variables:
+  DOCKER_DRIVER: overlay2
+
+  CLIENT_IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA-client
+  CLIENT_IMAGE_TAG_RELEASE: $CI_REGISTRY_IMAGE:client
+
+  EVENT_CRAWLER_IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA-event-crawler
+  EVENT_CRAWLER_IMAGE_TAG_RELEASE: $CI_REGISTRY_IMAGE:event-crawler
+
+  SLIDE_API_IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA-slide-api
+  SLIDE_API_IMAGE_TAG_RELEASE: $CI_REGISTRY_IMAGE:slide-api
+
+  TRIBE_SIMULATOR_IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA-tribe-simulator
+  TRIBE_SIMULATOR_IMAGE_TAG_RELEASE: $CI_REGISTRY_IMAGE:tribe-simulator
+
+lint:dockerfile:
+  stage: test
+  tags:
+    - general-runner
+  script:
+    - bash .gitlab-ci.d/run_hadolint.sh
+
+build:client:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $CLIENT_IMAGE_TAG -f ./client/Dockerfile .
+    - docker push $CLIENT_IMAGE_TAG
+  only:
+    changes:
+    - client/**/*
+  except:
+    - master
+
+build:event-crawler:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $EVENT_CRAWLER_IMAGE_TAG -f ./event-crawler/Dockerfile .
+    - docker push $EVENT_CRAWLER_IMAGE_TAG
+  only:
+    changes:
+    - event-crawler/**/*
+  except:
+    - master
+
+build:slide-api:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $SLIDE_API_IMAGE_TAG -f ./slide-api/Dockerfile .
+    - docker push $SLIDE_API_IMAGE_TAG
+  only:
+    changes:
+    - slide-api/**/*
+  except:
+    - master
+
+build:tribe-simulator:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $TRIBE_SIMULATOR_IMAGE_TAG -f ./tribe-simulator/Dockerfile .
+    - docker push $TRIBE_SIMULATOR_IMAGE_TAG
+  only:
+    changes:
+    - tribe-simulator/**/*
+  except:
+    - master
+
+build-release:client:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $CLIENT_IMAGE_TAG -f ./client/Dockerfile .
+    - docker push $CLIENT_IMAGE_TAG
+    - docker tag $CLIENT_IMAGE_TAG $CLIENT_IMAGE_TAG_RELEASE
+    - docker push $CLIENT_IMAGE_TAG_RELEASE
+  only:
+    refs: ["master"]
+    changes:
+    - client/**/*
+
+build-release:event-crawler:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $EVENT_CRAWLER_IMAGE_TAG -f ./event-crawler/Dockerfile .
+    - docker push $EVENT_CRAWLER_IMAGE_TAG
+    - docker tag $EVENT_CRAWLER_IMAGE_TAG $EVENT_CRAWLER_IMAGE_TAG_RELEASE
+    - docker push $EVENT_CRAWLER_IMAGE_TAG_RELEASE
+  only:
+    refs: ["master"]
+    changes:
+    - event-crawler/**/*
+
+build-release:slide-api:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $SLIDE_API_IMAGE_TAG -f ./slide-api/Dockerfile .
+    - docker push $SLIDE_API_IMAGE_TAG
+    - docker tag $SLIDE_API_IMAGE_TAG $SLIDE_API_IMAGE_TAG_RELEASE
+    - docker push $SLIDE_API_IMAGE_TAG_RELEASE
+  only:
+    refs: ["master"]
+    changes:
+    - slide-api/**/*
+
+build-release:tribe-simulator:
+  stage: build
+  tags:
+    - general-runner
+  before_script:
+    - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+  services:
+    - docker:dind
+  script:
+    - docker build -t $TRIBE_SIMULATOR_IMAGE_TAG -f ./tribe-simulator/Dockerfile .
+    - docker push $TRIBE_SIMULATOR_IMAGE_TAG
+    - docker tag $TRIBE_SIMULATOR_IMAGE_TAG $TRIBE_SIMULATOR_IMAGE_TAG_RELEASE
+    - docker push $TRIBE_SIMULATOR_IMAGE_TAG_RELEASE
+  only:
+    refs: ["master"]
+    changes:
+    - tribe-simulator/**/*
